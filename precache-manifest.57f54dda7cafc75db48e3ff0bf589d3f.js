@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2567c7cf9c7b413f514b",
+    "revision": "df52c73172fdefc1467a",
     "url": "/hutang/static/css/main.9849dd65.chunk.css"
   },
   {
-    "revision": "2567c7cf9c7b413f514b",
-    "url": "/hutang/static/js/main.2567c7cf.chunk.js"
+    "revision": "df52c73172fdefc1467a",
+    "url": "/hutang/static/js/main.df52c731.chunk.js"
   },
   {
     "revision": "98596c9a1824c3586e59",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/hutang/static/media/Blanchope.f6ff218a.ttf"
   },
   {
-    "revision": "521d0112cf328b97d47497298860f3c4",
+    "revision": "55490d3015f3524af4c1a8487da3f2c7",
     "url": "/hutang/index.html"
   }
 ];
