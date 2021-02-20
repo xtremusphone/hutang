@@ -1,0 +1,59 @@
+.App {
+}
+
+.App-header {
+  background-color: #F8F2DA;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Header-container {
+  height: 10vh;
+  padding-left: 5px;
+}
+
+.Body-container {
+  padding-left: 5px;
+  padding-right: 5px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+h1 {
+  color: #0f7173;
+  margin: 0px;
+  font-size: 50px;
+  font-family: Blanchope;
+}
+
+h5 {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #0f7173;
+  margin: 0px;
+}
+
+.Bottom-container {
+  height: 10vh;
+  display: flex;
+  justify-content: end;
+}
+
+h6 {
+  position: absolute;
+  bottom: 0;
+  margin: 0px;
+  margin-left: 10px;
+  font-size: 12px;
+  color: #4a4a4a;
+  font-family: Arial;
+}
