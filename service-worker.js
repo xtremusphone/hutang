@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hutang/precache-manifest.57f54dda7cafc75db48e3ff0bf589d3f.js"
+  "/hutang/precache-manifest.befbda6eb7326bbdf2ca54e62920376c.js"
 );
 
 workbox.clientsClaim();
